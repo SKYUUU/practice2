@@ -1,14 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e5def06a-c7a5-4bc1-b57b-ea7b891fcea9" name="Changes" comment="" />
+    <list default="true" id="e5def06a-c7a5-4bc1-b57b-ea7b891fcea9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/exception04/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception04/AccountEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception04/BalanceException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objectClass01/ObjectEqualsEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objectClass01/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objectClass01/StudentEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objectClass02/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objectClass02/PersonEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter15Start.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter15Start.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2G11HGMXOJl0rVwhaZaC5PURWbO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -16,12 +38,74 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Application.PersonEx">
+    <configuration name="AccounEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exception04.AccounEx" />
+      <module name="practice2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exception04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObjectEqualsEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="objectClass01.ObjectEqualsEx" />
+      <module name="practice2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="objectClass01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="objectClass02.PersonEx" />
+      <module name="practice2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="objectClass02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="objectClass01.StudentEx" />
+      <module name="practice2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="objectClass01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PersonEx" />
+        <item itemvalue="Application.StudentEx" />
+        <item itemvalue="Application.ObjectEqualsEx" />
+        <item itemvalue="Application.AccounEx" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
