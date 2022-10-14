@@ -2,16 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5def06a-c7a5-4bc1-b57b-ea7b891fcea9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/exception04/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exception04/AccountEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exception04/BalanceException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/objectClass01/ObjectEqualsEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/objectClass01/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/objectClass01/StudentEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/objectClass02/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/objectClass02/PersonEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objectClass03/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objectClass03/ProductEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objectClass04/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objectClass04/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objectClass04/ProductEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stringClass01/KeyBoardToString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stringClass01/ScannerEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stringClass02/CharAtEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stringClass02/EqualsEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stringClass02/GetBytesEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stringClass02/IndexOfEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stringClass02/LengthEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stringClass02/ReplaceEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stringClass02/SubStringEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stringClass02/ToLowerUpperEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stringClass02/TrimEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stringClass02/ValueOfEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stringClass03/ReverseEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stringClass03/SplitEx.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter15Start.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter15Start.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +32,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -29,67 +39,32 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
   <component name="ProjectId" id="2G11HGMXOJl0rVwhaZaC5PURWbO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/youyu/Desktop/java1/practice2/src/objectClass04"
   }
-}</component>
-  <component name="RunManager" selected="Application.PersonEx">
-    <configuration name="AccounEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exception04.AccounEx" />
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/objectClass04" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ProductEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="objectClass03.ProductEx" />
       <module name="practice2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exception04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ObjectEqualsEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="objectClass01.ObjectEqualsEx" />
-      <module name="practice2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="objectClass01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PersonEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="objectClass02.PersonEx" />
-      <module name="practice2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="objectClass02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StudentEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="objectClass01.StudentEx" />
-      <module name="practice2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="objectClass01.*" />
+          <option name="PATTERN" value="objectClass03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,10 +74,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PersonEx" />
-        <item itemvalue="Application.StudentEx" />
-        <item itemvalue="Application.ObjectEqualsEx" />
-        <item itemvalue="Application.AccounEx" />
+        <item itemvalue="Application.ProductEx" />
       </list>
     </recent_temporary>
   </component>
