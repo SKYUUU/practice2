@@ -1,27 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e5def06a-c7a5-4bc1-b57b-ea7b891fcea9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/objectClass03/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/objectClass03/ProductEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/objectClass04/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/objectClass04/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/objectClass04/ProductEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stringClass01/KeyBoardToString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stringClass01/ScannerEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stringClass02/CharAtEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stringClass02/EqualsEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stringClass02/GetBytesEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stringClass02/IndexOfEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stringClass02/LengthEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stringClass02/ReplaceEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stringClass02/SubStringEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stringClass02/ToLowerUpperEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stringClass02/TrimEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stringClass02/ValueOfEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stringClass03/ReverseEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stringClass03/SplitEx.java" afterDir="false" />
+    <list default="true" id="e5def06a-c7a5-4bc1-b57b-ea7b891fcea9" name="Changes" comment="Updated String Class">
+      <change afterPath="$PROJECT_DIR$/src/otherClass01/MathEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/otherClass01/StringBuilderEx.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,6 +69,14 @@
       <option name="presentableId" value="Default" />
       <updated>1665541187203</updated>
     </task>
+    <task id="LOCAL-00001" summary="Updated String Class">
+      <created>1665733130762</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665733130762</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -99,5 +89,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updated String Class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated String Class" />
   </component>
 </project>
