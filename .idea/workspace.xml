@@ -2,9 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5def06a-c7a5-4bc1-b57b-ea7b891fcea9" name="Changes" comment="Updated Other Class(10/17)">
-      <change afterPath="$PROJECT_DIR$/src/otherClass05/DecimalFormatEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/otherClass05/SimpleDateFormatEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/otherClass05/SplitStringTokenizerEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/otherClass06/CalendarEx01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/otherClass06/CalendarEx02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/otherClass06/CalendarEx03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/otherClass06/DateEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/otherClass06/TimeZoneEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022_10_14_6_32_PM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022_10_14_6_32_PM__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022_10_14_9_49_AM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022_10_14_9_49_AM__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022_10_18_12_33_PM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022_10_18_12_33_PM__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022_10_19_5_27_PM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022_10_19_5_27_PM__Changes_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +50,9 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/objectClass04" />
       <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="otherClass06" />
     </key>
   </component>
   <component name="RunManager">
